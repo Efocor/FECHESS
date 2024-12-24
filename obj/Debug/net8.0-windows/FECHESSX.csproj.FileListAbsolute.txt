@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Desktop\GG\CODE2\FECHESSX\bin\Debug\net8.0-windows\FECHESSX.exe
+C:\Users\LENOVO\Desktop\GG\CODE2\FECHESSX\bin\Debug\net8.0-windows\FECHESSX.deps.json
+C:\Users\LENOVO\Desktop\GG\CODE2\FECHESSX\bin\Debug\net8.0-windows\FECHESSX.runtimeconfig.json
+C:\Users\LENOVO\Desktop\GG\CODE2\FECHESSX\bin\Debug\net8.0-windows\FECHESSX.dll
+C:\Users\LENOVO\Desktop\GG\CODE2\FECHESSX\bin\Debug\net8.0-windows\FECHESSX.pdb
+C:\Users\LENOVO\Desktop\GG\CODE2\FECHESSX\obj\Debug\net8.0-windows\FECHESSX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\GG\CODE2\FECHESSX\obj\Debug\net8.0-windows\FECHESSX.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\GG\CODE2\FECHESSX\obj\Debug\net8.0-windows\FECHESSX.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\GG\CODE2\FECHESSX\obj\Debug\net8.0-windows\FECHESSX.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\GG\CODE2\FECHESSX\obj\Debug\net8.0-windows\FECHESSX.dll
+C:\Users\LENOVO\Desktop\GG\CODE2\FECHESSX\obj\Debug\net8.0-windows\refint\FECHESSX.dll
+C:\Users\LENOVO\Desktop\GG\CODE2\FECHESSX\obj\Debug\net8.0-windows\FECHESSX.pdb
+C:\Users\LENOVO\Desktop\GG\CODE2\FECHESSX\obj\Debug\net8.0-windows\FECHESSX.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\GG\CODE2\FECHESSX\obj\Debug\net8.0-windows\ref\FECHESSX.dll
